@@ -1,22 +1,22 @@
-In this repository you will find the brand assets for Balancer
+# In this repository you will find the brand assets for Balancer
 
-# Logo
+## Logo
 
-## Circle Container
+### Circle Container
 
     1. logo-balancer-black-128x128.png: https://github.com/balancer-labs/brand-assets/blob/main/logo/circle-container/logo-balancer-black-128x128.png
     2. logo-balancer-black-128x128.svg: https://github.com/balancer-labs/brand-assets/blob/main/logo/circle-container/logo-balancer-black-128x128.svg
     3. logo-balancer-black-512x512.svg: https://github.com/balancer-labs/brand-assets/blob/main/logo/circle-container/logo-balancer-black-512x512.svg
     4. logo-balancer-white-512x512.svg: https://github.com/balancer-labs/brand-assets/blob/main/logo/circle-container/logo-balancer-white-512x512.svg
 
-## No Container
+### No Container
 
     1. logo-balancer-black.png: https://github.com/balancer-labs/brand-assets/blob/main/logo/no-container/logo-balancer-black.png
     2. logo-balancer-black.svg: https://github.com/balancer-labs/brand-assets/blob/main/logo/no-container/logo-balancer-black.svg
     3. logo-balancer-white.png:  https://github.com/balancer-labs/brand-assets/blob/main/logo/no-container/logo-balancer-white.png
     4. logo-balancer-white.svg: https://github.com/balancer-labs/brand-assets/blob/main/logo/no-container/logo-balancer-white.svg
 
-## Square container
+### Square container
 
     1. logo-balancer-black-1024x1024.png : https://github.com/balancer-labs/brand-assets/blob/main/logo/square-container/logo-balancer-black-1024x1024.png
     2. ogo-balancer-black-128x128.png: https://github.com/balancer-labs/brand-assets/blob/main/logo/square-container/logo-balancer-black-128x128.png
@@ -37,7 +37,7 @@ In this repository you will find the brand assets for Balancer
     17. logo-balancer-white-64x64.png: https://github.com/balancer-labs/brand-assets/blob/main/logo/square-container/logo-balancer-white-64x64.png
     18. logo-balancer-white-transparent-512x512.svg: https://github.com/balancer-labs/brand-assets/blob/main/logo/square-container/logo-balancer-white-transparent-512x512.svg
 
-# Logotype
+## Logotype
 
     1. ogotype-balancer-black-1000x184.png: https://github.com/balancer-labs/brand-assets/blob/main/logotype/logotype-balancer-black-1000x184.png
     2. logotype-balancer-black-1000x184.svg: https://github.com/balancer-labs/brand-assets/blob/main/logotype/logotype-balancer-black-1000x184.svg
