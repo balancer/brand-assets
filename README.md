@@ -1,4 +1,4 @@
-# In this repository you will find the brand assets for Balancer
+# Brand Assets
 
 ## Logo
 
